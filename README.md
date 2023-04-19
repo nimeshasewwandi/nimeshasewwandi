@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nimesha Sewwandi</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif" align="center">
+ 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimeshasewwandi&label=Profile%20views&color=0e75b6&style=flat" alt="nimeshasewwandi" /> </p>
 
