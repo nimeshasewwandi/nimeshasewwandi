@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
  
-<a hreaf="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-vector%2Fsoftware-programmer-girl-office-work-vector-design_45170535.htm&psig=AOvVaw1pywUVxmH2gOJT7EQve_8Q&ust=1699024077440000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCumYfMpYIDFQAAAAAdAAAAABAK"></a>
+<a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-vector%2Fsoftware-programmer-girl-office-work-vector-design_45170535.htm&psig=AOvVaw1pywUVxmH2gOJT7EQve_8Q&ust=1699024077440000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCumYfMpYIDFQAAAAAdAAAAABAK"></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimeshasewwandi&label=Profile%20views&color=0e75b6&style=flat" alt="nimeshasewwandi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
